@@ -1,7 +1,8 @@
 ### Hello World 👋
 I am a software engineer from Brazil
 - 🔭 Working on multiple backend projects using Nodejs and PHP
-- 🌱 Learning about architetural patterns in depth
+- 💻 Learning about architetural patterns in depth
+- 🚀 Open source enthusiast
 <br>
 
 ## Connect with me
