@@ -3,6 +3,7 @@ I am a software engineer from Brazil
 - 🔭 Working on multiple projects using React.JS/Nodejs and PHP sometimes
 - 💻 Learning about architectural patterns in depth
 - 🚀 Open source enthusiast
+- Tech writer (https://medium.com/@paulo16061)
 <br>
 
 ## Connect with me
