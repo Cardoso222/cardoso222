@@ -1,10 +1,13 @@
-### Hello World 👋
-I am a software engineer from Brazil
-- 🔭 Working on multiple projects using React.JS/Nodejs and PHP sometimes
-- 💻 Learning about architectural patterns in depth
-- 🚀 Open source enthusiast
-- Tech writer (https://medium.com/@paulo16061)
-<br>
+<h1 align="center">Hi, I'm Paulo 👋</h1>
+
+<h3 align="center">Software Engineer · Mentor · Author</h3>
+
+## My latests articles on my Medium blog
+* 2023-11-11 [How Adopting a Hacker Mindset Can Elevate Your Software Development](https://medium.com/@paulo16061/how-adopting-a-hacker-mindset-can-elevate-your-software-development-783dfd56166e)
+* 2023-11-03 [The most difficult skill, that you as a senior developer, should learn.](https://medium.com/@paulo16061/the-most-difficult-skill-that-you-as-a-senior-developer-should-learn-08d3caf5e1ec)
+* 2023-10-30 [3 Communications technologies that every developer must know](https://medium.com/@paulo16061/3-communications-technologies-that-every-developer-must-know-835447f86b8b)
+* 2023-10-25 [The challenge of collecting data from coffee farms](https://medium.com/@paulo16061/the-challenge-of-collecting-data-from-coffee-farms-95700cc1b337)
+* 2023-11-11 [Why Microservices aren’t popular anymore](https://medium.com/@paulo16061/why-microservices-arent-popular-anymore-0cd4193fe10b)
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulo-cardoso-54115497/)
