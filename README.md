@@ -3,6 +3,7 @@
 <h3 align="center">Software Engineer · Mentor · Author</h3>
 
 ## My latests articles on my Medium blog
+* 2023-12-20 [How to be More Productive: A Guide for Creative Professionals](https://medium.com/@paulo16061/how-to-be-more-productive-a-guide-for-creative-professionals-feb3b2fb4e11)
 * 2023-11-11 [How Adopting a Hacker Mindset Can Elevate Your Software Development](https://medium.com/@paulo16061/how-adopting-a-hacker-mindset-can-elevate-your-software-development-783dfd56166e)
 * 2023-11-03 [The most difficult skill, that you as a senior developer, should learn.](https://medium.com/@paulo16061/the-most-difficult-skill-that-you-as-a-senior-developer-should-learn-08d3caf5e1ec)
 * 2023-10-30 [3 Communications technologies that every developer must know](https://medium.com/@paulo16061/3-communications-technologies-that-every-developer-must-know-835447f86b8b)
