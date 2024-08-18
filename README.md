@@ -3,6 +3,7 @@
 <h3 align="center">Software Engineer · Mentor · Author</h3>
 
 ## My latests articles on my Medium blog
+* 2024-08-17 [How to set up Strapi on AWS Elastic beanstalk](https://medium.com/@paulo16061/how-to-set-up-strapi-on-aws-elastic-beanstalk-e9b9fa0520b7)
 * 2024-08-11 [A/B Test fundamentals](https://medium.com/@paulo16061/a-b-test-fundamentals-6c4a820181e8)
 * 2024-01-16 [As a Developer what should you do beyond code?](https://medium.com/@paulo16061/as-a-developer-what-should-you-do-beyond-code-93a43026b6ab)
 * 2023-12-20 [How to be More Productive: A Guide for Creative Professionals](https://medium.com/@paulo16061/how-to-be-more-productive-a-guide-for-creative-professionals-feb3b2fb4e11)
